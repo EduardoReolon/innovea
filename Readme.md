@@ -15,10 +15,5 @@ Para iniciar a aplicação em modo de desenvolvimento
 npm run serve
 ```
 
-to build to production run
-```
-npm run build
-```
-
 Fazer uma requisição na rota localhost:3000/api/v1/news?query=tesla&from=2023-03-18
 Substituindo o valor de query e de from como desejar
