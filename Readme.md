@@ -16,4 +16,5 @@ npm run serve
 ```
 
 Fazer uma requisição na rota localhost:3000/api/v1/news?query=tesla&from=2023-03-18
-Substituindo o valor de query e de from como desejar
+
+Substituir o valor de query e de from como desejar
